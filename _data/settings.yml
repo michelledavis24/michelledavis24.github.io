@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Board
+  site_title: Michelle Leigh Photography
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -8,9 +8,15 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Weddings'
       url: '/'
-    - title: 'Blog'
+    - title: 'Maternity'
+      url: '/blog/'
+    - title: 'Family'
+      url: '/blog/'
+    - title: 'Christmas'
+      url: '/blog/'
+    - title: 'Shot for Memory Keeper'
       url: '/blog/'
     - title: 'About'
       url: '/about'
@@ -18,7 +24,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Board – a stylish full-width masonry grid Jekyll theme
+  footer_tagline: © 2020 Michelle Leigh Photography
 
 grid_settings:
   overlay_opacity: 0.8
@@ -32,7 +38,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://www.facebook.com/michelleleighphotographs/'
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''
