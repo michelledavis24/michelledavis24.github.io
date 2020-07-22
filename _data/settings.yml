@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Michelle Leigh Photography
-  favicon_image: /images/favicon.png
+  favicon_image:
 
 header_settings:
   logo_image: 
@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Family'
       url: '/blog/'
     - title: 'Christmas'
-      url: '/blog/'
+      url: '/christmas'
     - title: 'Shot for Memory Keeper'
       url: '/blog/'
     - title: 'About'
