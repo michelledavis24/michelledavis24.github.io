@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Family'
       url: '/blog/'
     - title: 'Christmas'
-      url: '/christmas'
+      url: '/christmas/'
     - title: 'Shot for Memory Keeper'
       url: '/blog/'
     - title: 'About'
