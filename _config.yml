@@ -10,6 +10,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
+  christmas:
+    output: true
+    permalink: /christmas/:slug  
   projects:
     output: true
     permalink: /project/:slug
